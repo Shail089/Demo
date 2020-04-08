@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void newMethod(){
         int a=2;
-        String test="Complex Merging ";
+        String test="Complex dual Merging ";
         String test2="compare on github";
     }
 }
