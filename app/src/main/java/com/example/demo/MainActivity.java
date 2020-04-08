@@ -16,4 +16,8 @@ public class MainActivity extends AppCompatActivity {
         int j=2+2;
         int k=i+j;
     }
+
+    public void pillRequest(){
+        String str="Created to test pull request";
+    }
 }
