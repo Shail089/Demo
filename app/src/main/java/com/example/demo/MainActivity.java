@@ -12,14 +12,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
     private void testFuntion(){
-        int i=10;
-        int j=40;
+        int i=1+1;
+        int j=2+2;
         int k=i+j;
-    }
-
-    public void newMethod(){
-        int a=2;
-        String test="Complex Merging ";
-        String test2="compare on github";
     }
 }
