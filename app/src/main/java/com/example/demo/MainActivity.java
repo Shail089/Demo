@@ -16,4 +16,9 @@ public class MainActivity extends AppCompatActivity {
         int j=2+2;
         int k=i+j;
     }
+
+    public void newMethod(){
+        int a=2;
+        String test="Merging";
+    }
 }
