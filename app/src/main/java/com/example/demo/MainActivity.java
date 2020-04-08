@@ -17,7 +17,10 @@ public class MainActivity extends AppCompatActivity {
         int k=i+j;
     }
 
-    public void pillRequest(){
-        String str="Created to test pull request";
+    public void pullRequest(){
+        String str="pull request";
+    }
+    public void pullRequestNew(){
+        String str="Created to test pull new request";
     }
 }
