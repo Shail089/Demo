@@ -20,5 +20,6 @@ public class MainActivity extends AppCompatActivity {
     public void newMethod(){
         int a=2;
         String test="Merging";
+        String test2="compare on github";
     }
 }
